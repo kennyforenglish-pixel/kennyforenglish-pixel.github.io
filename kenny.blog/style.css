@@ -1,0 +1,31 @@
+
+*{
+padding:5px,0px;
+margin:0px;
+       
+}
+header,section,footer {
+    background-color: #313033;
+    border:10px #1d1d1d solid
+}
+.one ul li{
+    color:rgb(218, 214, 214);
+}
+h1,p,h2,a{
+    color:rgb(218, 214, 214);
+}
+image{
+    display:inline;
+}
+h1{
+    font-size:100px;
+}
+h1{
+    position:absolute;
+    left:30vw;
+    top:0px;
+    line-height:200px;
+}
+h2{
+    font-size:30px;
+}
